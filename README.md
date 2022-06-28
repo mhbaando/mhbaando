@@ -1,7 +1,7 @@
 <img src="img/githubcover.png" widith="100%" alt="mhbaando github cover">
 
 
-<h2 align="center">Hey 👋 Welcome to my page! </h2>  I'm Mohamud Abhhir, Front-End developer from 🇸🇴 <b>Mogadishu, Somalia</b>, 
+<h2 align="center">Hey 👋 Welcome to my page! </h2>  I'm Mohamud Abshir, Front-End developer from 🇸🇴 <b>Mogadishu, Somalia</b>, 
 Happy to see your smiling face, am glad you are on my Gihub profile.</p>
 <p>Since beginning of my journey as a freelance designer and Developer I've done remote work for Agencies consulted for startup and collaborated with talented people to create digital products</p>
 For more information you can find my websitet </br> <a href="https://mhbaando.com" target="_blank">
